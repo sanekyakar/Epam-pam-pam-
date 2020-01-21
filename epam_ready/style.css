@@ -1,0 +1,64 @@
+
+ .dbutton {
+     margin-left: 7%;
+     width: 40%;
+ }
+ 
+ .ebutton {
+     margin-left: 7%;
+     width: 40%;
+ }
+ 
+ .footer {
+     margin-top: 10px;
+     display: flex;
+     margin-left: 10%;
+     
+ }
+ 
+ 
+ 
+
+ 
+ .flex {
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ tr td {
+     height: 35px;
+     align-items: center;
+     justify-content: center;
+ }
+ 
+ .countInput {
+     width: 50px;
+ }
+ 
+ .priceInput {
+     width: 100px;
+ }
+ 
+ .sortButton {
+     width: 0;
+     height: 0;
+     border-top: 20px solid black;
+     border-left: 10px solid transparent;
+     border-right: 10px solid transparent;
+ }
+ 
+ .sortButtonRevers {
+     width: 0;
+     height: 0;
+     border-bottom: 20px solid black;
+     border-left: 10px solid transparent;
+     border-right: 10px solid transparent;
+ }
+ 
+ .hidden {
+     display: none;
+ }
+ 
+ .verh{
+     margin: 0 10%;
+ }
